@@ -1,0 +1,1 @@
+X. Fu and E. Modiano, "Learning-NUM: Network Utility Maximization With Unknown Utility Functions and Queueing Delay," in IEEE/ACM Transactions on Networking, vol. 30, no. 6, pp. 2788-2803, Dec. 2022, doi: 10.1109/TNET.2022.3182890.
